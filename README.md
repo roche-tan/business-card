@@ -1,4 +1,5 @@
 First solo React project from Scrimba course.
+Link to the project: https://651406d491309a04ce257eac--chimerical-lokum-af2aa7.netlify.app/
 
 # co01a4b40a281abd890f30eda
 
