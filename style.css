@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background-color: #23252C;
+    width: 550px;
+    height: 868px;
+    margin: 50px 60px;
+}
+
+.main-container{
+    background: #1A1B21;
+    width: 317px;
+    height: 780px;
+    border-radius: 15px; 
+    padding-top: px;
+    font-family: Inter, sans-serif;
+}
+.info-container>h2, .info-container>p.title, .info-container > p.email{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+    margin-bottom: 1px;
+}
+
+.img-info{
+    width: 317px;
+    height: 317px;
+    border-top-left-radius: 15px; 
+    border-top-right-radius: 15px; 
+}
+.info-container > h2 {
+    color: #FFFFFF;
+}
+
+.info-container > p.title {
+    margin-top: 5px; 
+    color: #F3BF99;
+}
+.info-container > p.email{
+    color: #F5F5F5;
+    size: 0,75em;
+    margin-bottom: 10px;    
+    font-size: 11px;
+    font-weight: normal;
+}
+.info-btn{  
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
+}
+button{
+    margin: 10px;
+    align-content: center;
+    vertical-align: middle;
+}
+
+button > img, button > span{
+    padding-right: 10px;  
+}
+.mail-btn{
+    border-radius: 5px; 
+    padding: 5px 20px;
+    background: #FFFFFF;
+}
+.linkedin-btn{
+    border-radius: 5px; 
+    padding: 5px 20px;
+    background: #5093E2;    
+}
+.container-title{
+    color: #F5F5F5;
+    margin-bottom: 0;
+}
+.about-container, .interests-container{
+    margin:0px  35px ;
+}
+
+.content{
+    color: #DCDCDC;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 15px;
+}
+
+.footer-container{
+    background-color: #161619;
+    width: 317px;
+    height: 64px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    display: flex;  
+    justify-content: space-around;  
+    align-items: center;  
+}   
+    
