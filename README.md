@@ -1,3 +1,5 @@
+First solo React project from Scrimba course.
+
 # co01a4b40a281abd890f30eda
 
 Quick start:
