@@ -1,12 +1,16 @@
-First solo React project from Scrimba course, a digital static business card.
-Link to the project: https://651406d491309a04ce257eac--chimerical-lokum-af2aa7.netlify.app/
+# Digital Business Card
 
-Use of:
-  HTML
-  CSS
-  React Components
+This is a simple project where I've put into practice various web development concepts, including:
 
-# co01a4b40a281abd890f30eda
+- JSX: Using JSX (JavaScript XML) for building dynamic user interfaces.
+  
+- Custom Components: Creating reusable components for modularizing the application.
+
+- Styling: Adding styles for an appealing design.
+
+- Static Pages: Focusing on static pages for showcasing essential information.
+
+Link to the project in Netlify: https://651406d491309a04ce257eac--chimerical-lokum-af2aa7.netlify.app/
 
 Quick start:
 
@@ -14,23 +18,3 @@ Quick start:
 $ yarn # npm install
 $ yarn build # npm run build
 ````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
